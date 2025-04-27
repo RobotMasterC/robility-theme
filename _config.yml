@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: robility-theme
+description: "Robility Theme is a Jekyll theme based on a lined sheet of paper"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
